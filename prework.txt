@@ -1,0 +1,10 @@
+What do you want to learn from this boot camp? Are there any topics or domains that you are most excited about? How will the skills you'll learn in this class help your career? If you don't have a career in this field yet, no problem
+
+
+My main goal from this bootcamp is to finally develop the skills, in a controlled, university-style environment, in my favourite area of information technology, cybersecurity. 
+
+I have considerable experience dating back over 20 years now in the vast majority of areas we will be studying - with one main exception - digital forensics. 
+
+I have absolutely zero knowledge or experience in digital forensics, although that is also the area of this bootcamp that excites me the most. I have always wanted to become certified, and develop the skills required to become so, yet it is an area that lacks any considerable material online to be able to effectively do so.
+
+I have extensive experience in networking, penetration testing, and specifically cryptography. I spent half a decade experimenting with different methods of securing, penetrating and in general investigating the various forms of tools available regarding the subject. 
